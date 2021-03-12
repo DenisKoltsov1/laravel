@@ -1,0 +1,237 @@
+.container-fluid
+{
+    
+    padding: 0;
+    margin: 0;
+    /* min-width:1920px; */
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+/* @media (min-width: 576px) {
+    .container {
+    background: #E5E5E5;
+      }
+  }
+  
+@media (min-width: 768px) {
+    
+  }
+  
+  @media (min-width: 992px) {
+    .container {
+      max-width: 960px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1140px;
+    } */
+  }
+.row
+{   padding: 0px;
+    margin: 0;
+    
+    
+}
+.UpperMenu
+{  
+    position: relative;
+    display: flex;
+    max-width: 1920px;
+    height:95px ;
+    background-color: #333333;
+}
+
+
+
+
+
+.content
+{
+
+height: 500px;
+
+}
+
+
+.UpperMenu > p
+{
+
+    font-size: 30px;
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+    /* width: 100px; */
+    /* left: 100px; */
+    position: absolute;
+    left: 509px;
+}
+
+
+
+label{
+
+    position: relative;
+    /* top:200px; */
+    left: 150px;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+
+
+input
+{
+    position: absolute;
+    left: 635px;
+    /* top: 302px; */
+    width: 240px;
+}
+
+
+
+label.numberСontract
+{
+    top:50px;
+}
+
+input.numberСontract
+{
+    top:157px
+}
+
+label.nameCompany
+{
+
+    top: 97px;
+}
+input.nameCompany
+{
+
+    top: 234px;
+}
+
+label.requesites
+{
+
+    top: 200px;
+    left:550px;
+
+}
+
+label.nameOrganization
+{
+
+    top: 250px;
+
+}
+
+input.nameOrganization
+{
+
+    top: 519px;
+
+}
+
+label.OGRN
+{
+      left: -297px;
+    top: 385px;
+
+}
+
+input.OGRN
+{
+
+    top: 650px;
+
+}
+
+label.legalAddress
+{
+    left: -484px;
+    top: 519px;
+
+}
+
+input.legalAddress
+{
+
+    top: 785px;
+
+}
+label.telefon
+{
+    left: -932px;
+    top: 644px;
+
+}
+
+input.telefon
+{
+
+    top: 907px;
+
+}
+
+button
+{    position: absolute;
+    top: 1075px;
+    left: 714px;
+    height: 59px;
+    width: 250px;
+    background: yellow;
+}
+
+
+
+
+
+
+
+
+.footerwrap
+{   text-transform: uppercase;
+    max-width: 1950px;
+    height:740px;
+    padding: 0;
+    background: #333333;
+    margin: 0;
+}
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+.Footer{
+
+width: 100%;
+height: 105px;
+background-color: #333333;
+
+
+
+}
+
+form{
+
+display: absolute;
+top: 500px;
+left:500px;
+bottom:500px;
+
+
+}
